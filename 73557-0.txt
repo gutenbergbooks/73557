@@ -1,0 +1,1766 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 73557 ***
+
+                THE PRINCIPLES AND OBJECTS OF GEOLOGY.
+
+
+                      MINISTRY OF FINANCE, EGYPT.
+                               * * * * *
+                          SURVEY DEPARTMENT.
+                               * * * * *
+
+                                  THE
+                   PRINCIPLES AND OBJECTS OF GEOLOGY
+                       WITH SPECIAL REFERENCE TO
+                        =THE GEOLOGY OF EGYPT,=
+
+                                  BY
+                   W. F. HUME, D.SC., F.R.S.E., ETC.
+                 DIRECTOR, GEOLOGICAL SURVEY OF EGYPT.
+
+                               * * * * *
+
+     _Technical Lectures delivered in the Survey Department, Giza,
+                on January 20, and February 10, 1910._
+
+[Decoration]
+
+                                CAIRO:
+             Printed at the NATIONAL PRINTING DEPARTMENT,
+  and to be obtained at the SALE-ROOM, Geological Museum, Ministry of
+  Public Works Gardens; at the SURVEY DEPARTMENT, Giza (Mudiria); or
+                        through any Bookseller
+                               * * * * *
+                                 1911.
+
+=PRICE 5 P.T.=
+
+
+
+
+                            ILLUSTRATIONS.
+                               * * * * *
+
+
+                                                                 PAGE.
+
+  Fig. 1. — Two Anticlines and a Syncline                            6
+
+   „   2. — Overfolding of Strata                                    7
+
+   „   3. — Unconformity exhibited in the Fayûm                      8
+
+   „   4. — Fault exhibited by a Coal-seam                           8
+
+   „   5. — Sand-erosion of Sandstone Cliff at
+            Gebel el Tunb                              Facing       10
+
+   „   6. — Water-worn Amphitheatre in Side-valley
+            of Um Leseifa                                 „         10
+
+   „   7. — Denudation Effects in a District of
+            Sedimentary Rocks                             „         11
+
+   „   8. — Denudation Effects in a District of
+            Igneous Rocks                                 „         11
+
+                               * * * * *
+
+
+
+
+                =THE PRINCIPLES AND OBJECTS OF GEOLOGY=
+                       WITH SPECIAL REFERENCE TO
+                        =THE GEOLOGY OF EGYPT.=
+
+                               * * * * *
+
+                              I.—GENERAL.
+
+
+The systematic examination of the geological structure of Egypt,
+carried out by the Geological Survey during the last thirteen years,
+has, in conjunction with previous studies, revealed the fact that
+the surface of the country is composed of very varied materials:
+limestones, sands, clays, sandstones, granites, schists, etc. The
+co-ordination of view as to the distribution of these rocks[1]
+presented by a geological map has further shown that they are not
+arranged in a random manner, but that certain very definite relations
+exist between them. If, for instance, the Moqattam hills behind
+the Citadel be ascended, the lower part of the scarp is found to be
+composed of white limestone, which is capped by a series of sandy
+limestones and clays differing alike in colour and in the rapidity
+with which they are worn away by the streams, due to the rare but
+destructive winter rains. Finally, the summit is crowned by beds
+in which boulders of flint and quartz play the most important part,
+the matrix of sand which bound them together having long been removed
+by the action of the wind.
+
+Similarly, if we were to go southward towards Aswan, a change would
+be noted in the character and composition of the rocks which form
+the cliffs bordering the Nile Valley. From Cairo to Qena, limestones
+predominate; but from thence southward to Esna, clays play a large
+part at the base of the limestones, and the slipping of the latter
+over these softer members has given rise to the “tumbled” country
+which is so conspicuous a feature between Armant and Matana. South of
+Esna the clays in their turn disappear, while the sandstone which is
+seen underlying them near Mahamid becomes the dominant constituent
+of the hills from near Edfu to the neighbourhood of Aswan; at this
+locality the sandstone itself vanishes, except in so far as it forms
+isolated caps on the granite, which is the principal rock in the
+well-known district of the First Cataract.
+
+The same lesson as to the order of succession of the rocks in Egypt
+is forced home if we move from Qena eastward to the Red Sea hills,
+or south-westward to Kharga Oasis. East of Qena the clays are a
+conspicuous feature at the base of the outlying limestone hills (Abu
+Had, etc.), and in their turn rest on sandstone, which forms striking
+plateaus seamed by deep ravines giving entry to the heart of the Red
+Sea hills. On traversing these gorges, a confused hill-country of
+granite (worn into boulders on the surface), or dark-green schists is
+entered, on whose summits the sandstone occurs as isolated outliers
+near the main sandstone mass, but to the east disappears altogether.
+
+Similarly, going westward and crossing the great limestone desert, on
+reaching the edge of the scarp which bounds the oases, clays appear
+from under the limestones, and in their turn overlie sandstones
+forming the floors of the oasis depressions. Closer examination
+reveals the fact that in the upper part of the sandstone series seams
+of clay alternate with the sandy layers, and in that part of the cliff
+where clay bands predominate, beds of limestone alternate with them.
+
+In broad outline, it may be stated that in southern Egypt, limestone
+rests on clays alternating with limestone, these on sandstones which
+in their upper part alternate with clay, and the sandstone on granite
+and metamorphic rocks (slates, schists, etc.). The inclination or dip
+of the various beds is such that should a boring be made through the
+limestone near Cairo, one might expect to reach first a succession
+of beds where clay was predominant, followed by beds of sandstone,
+and finally the series of which the granite of Aswan is a conspicuous
+member.[2] In northern Egypt, the conditions are reversed, sandstones
+and clays _overlying_ the limestones near Cairo, but never attaining
+the extent and importance of those exposed to view in the south.
+
+These facts require an explanation—the one furnished by the science
+of Geology, being briefly as follows: Each of the rocks observed
+has a definite origin or formation; the nature of their present
+distribution is due to subsequent movement, or deformation; the
+various meteorological agencies at work lead to the transformation of
+the original structures, resulting in the formation of a new series
+of rocks composed of materials derived from the wearing away of the
+older deposits.
+
+
+                   II.—ORIGIN OR FORMATION OF ROCKS.
+
+
+The simplest illustration of the formation of a rock is one which
+may be observed by the dweller in Egypt every year during the Nile
+flood. The “red water” of the Nile, if collected during this
+period, and evaporated to dryness, leaves behind it the fine-grained
+sediment, or Nile mud, forming the soil to which this land owes its
+fertility; while in the central portions of the river, the coarser
+material, consisting largely of sand-grains, is being transported by
+the stronger current. As a result, the river flows for the main part
+over a sandy bed, the clays being restricted to the sides where the
+water is moving less swiftly, or to the fields on which the finer
+sediment is deposited. This “red water” has been traced step by
+step to its parent source, and has been proved to be derived from
+the wearing away of the widely-spread volcanic rocks of Abyssinia,
+disintegrated by differences of temperature, etc., and denuded
+by the destructive rainstorms which break over that region in the
+early summer. It is equally a matter of experience that on drying,
+this sediment passes from the condition of a soft and sticky mud
+to a hard and resistant clay, which, drying during the heat of the
+summer, cracks in every direction. The fluviatile character of these
+clay deposits is often revealed by the presence of the river shells
+enclosed in them, and in each succeeding year slight differences
+in composition in the material brought down are indicated by the
+layers being sharply marked off from one another, and so presenting
+the familiar stratified appearance. Again, much sand and clay is
+being carried seaward and deposited, the former, in general, nearer
+the land on account of its greater specific gravity and less finely
+divided character.
+
+These clays and sands are forming both on the land and in the sea,
+a point which does not need elaboration, but when considering the
+origin of the limestones, and how it is that they seem at times to
+be built up of fossil shells, as a rule the general student would
+be at a loss for an answer. The researches in the great oceans,
+which have been carried on with such assiduity during recent years,
+have shown that the upper layers of their waters are crowded with a
+vast number of living organisms, apparently simple in structure, but
+having the power of extracting the carbonate of lime in solution and
+constructing shells of complicated and beautiful form. As the animals
+die, these tiny shells rain down to the bed of the ocean, slowly
+forming a muddy white calcareous paste which encloses the sea-urchins
+and other marine animals living in the depths of the sea. Thus, step
+by step, muds (which on drying are as genuine limestones as any now
+forming the cliffs and scarps of Egypt) are laid down on one another,
+separated into strata whenever some external change, such as the
+addition of some clayey matter transported from a river in flood,
+slightly alters the composition. The alteration is subsequently
+indicated either by variation in tint or by differing resistance
+to the wearing influences of the meteorological agencies. But how
+are these argillaceous muds transformed into the solid clays, the
+sands into sandstones, and the calcareous muds into fossiliferous
+limestones? How have these loose materials become consolidated so
+as to form the compact rock-masses with which we become acquainted
+in the most casual study of the physical structure of Egypt?
+
+
+                      III.—DEFORMATION OF ROCKS.
+
+
+Examination of the rock exposures at many localities in the
+neighbourhood of Cairo bears witness to the fact that the strata of
+limestone which were laid down horizontally upon the bed of the sea
+are no longer in the position they once occupied, but are now inclined
+to the horizontal plane at angles which are easily perceptible. This
+is especially noticeable in the two shallow cuttings under the
+Great Pyramid, where the strata are inclined 5 degrees to the
+south, revealing the reason why the whole Pyramid slope descends so
+rapidly in the southward direction. Again, if standing at the base
+of the same mighty structure, the gaze be allowed to wander over
+the broad expanse of the Nile Valley to the scarp of the Moqattam
+hills behind the Citadel, it will be seen that the white limestone
+of their lower slopes forms, not a long horizontal wall, but an arch,
+sloping strongly both north and south of the Citadel. There has been
+obviously change of form, but how has it taken place?
+
+We learn with surprise that an earthquake shock in distant San
+Francisco or in the inhospitable regions of Turkestan has recorded
+itself through the delicately-poised recorder at Helwan, long before
+the dire news of destruction has flashed along the telegraph wire
+to the same destination. There is a realization of the instability
+of the earth’s crust, in spite of the solidarity of its component
+parts, but though the sudden shocks bring home this truth, it is
+not so readily grasped that day by day and hour by hour parts of the
+earth’s crust are slowly rising and others sinking, offering stern
+problems to the dwellers on the shores where these changes are most
+markedly taking place. On the eastern shores of England, towns and
+forests are being submerged beneath the relentless advance of the sea;
+on the coasts of the Scandinavian peninsula, etc., on the other hand,
+beaches formerly beneath the sea now stand high above the influence of
+its waves, and in Egypt coral-reefs which once grew beneath the waters
+of the Red Sea rise in places to over two hundred metres above it in
+bold hills or steep-sided terraces. Though possibly of far greater
+importance and significance than the sudden convulsions which have
+left so deep an impression on the mind of man, these movements are
+nevertheless so imperceptible that they arouse little attention.
+
+A second type of deformation is noted where heavy masses of one
+rock rest on other and softer materials. The underlying beds are
+then often compressed and contorted; clays, for instance, are
+drawn out into thinner laminæ, giving rise to shales, while the
+massive rocks above either slip on the surface of the lower ones,
+if these be impermeable, and so permit of a water-layer forming
+along the junction, or else descend by sheer weight, producing a
+confused area of mixed materials in front of the still unshattered
+cliffs. Examples of this nature abound in Egypt wherever the Eocene
+limestones rest on the Cretaceous clays; on the railway from Armant
+to Matana the resulting effects are well observed near Shagab. Here
+in the main cliff the massive limestones are seen resting on the
+soft bluish clays, while in front is a wilderness of low hills in
+which limestones and clays are mixed, broken and contorted. But while
+these deformations may be irregular and local, there remain greater
+pressure-effects which have been regional in character, and by whose
+agency the solid rocks have been folded in the most remarkable manner,
+strata once horizontal being thrown into arches, or anticlines,
+and basin-like curves, or synclines. The importance of these changes
+cannot be over-estimated, and some of the marked features of Egyptian
+scenery depend directly on these effects. Reference has already been
+made to the slope of the Pyramid plateau, but the character of Egypt
+in far broader outline depends on the results of these pressures and
+the foldings so produced. A glance at the map suffices to show that
+many of the salient features in this country present a remarkable
+similarity and parallelism. The eastern cliff-wall of Kharga Oasis
+preserves a notable parallelism to a portion of the Nile Valley,
+though the latter be separated by many kilometres of wild desert
+plateau from the oasis; another portion of the Nile Valley also
+agrees with the Gulf of Suez in the broad outlines of its trend.
+
+[Illustration: Fig. 1.—Two Anticlines and a Syncline.[3]]
+
+A section taken from Baharia or Kharga Oasis to the shores of the
+Red Sea reveals the fact that Egypt proper is bounded on the west
+by a low flat arch which has brought the underlying sandstones
+nearer to the surface, giving rise to the great oases.[4] These
+are mainly present in the sandstone areas, and are in part bounded
+by cliff-walls composed in many instances of clays at the base and
+limestones at the summit. To the east, on the other hand, rise the
+Red Sea hills, the central core of a steeply inclined arch in which
+the resistant granites and schists now rise high above the low-lying
+sandstone country which flanks them. Between these two arches is
+the flat-bedded syncline in which the nummulitic limestone is the
+conspicuous member, the strata in central Egypt having in consequence
+a half cup-shaped form, of which one half, the northern, may have
+disappeared by fracture beneath the waters of the Mediterranean
+Sea. This cup-like structure may be due to Egypt having not only
+been folded in a north-west and south-east direction but also almost
+at right angles, this latter folding giving rise to such remarkable
+features as the Wadi Araba, the Qena bend, and possibly affording the
+fundamental explanation for the great S-shaped bends of the Nile. In
+other and more mountainous regions, such as the Alps and Himalayas,
+these solid earth-waves may be under such immense pressure that their
+crests begin first to turn over like those of an advancing wave of
+the sea, and then may be broken in such a way that mighty masses
+of strata are rent asunder, those portions which are uppermost
+being thrust for great distances over the underlying beds. These
+extreme folds ending in fracture, or overthrusts, are as yet but
+little known in Egypt, though Dr. Ball has reported an interesting
+case from the neighbourhood of Abu Harba, and some of the phenomena
+of dislocation observed near the borders of the Gulf of Suez may
+possibly be explained as resulting from movements of this nature.
+
+[Illustration: Fig. 2.—Overfolding of Strata.]
+
+These intense movements become masked under the influence of the
+denuding hand of time, the contorted strata may again sink beneath the
+sea, new beds are laid down horizontally on the upturned edges of the
+older series and the result is the production of an unconformity
+between the two members, which differ in age, in inclination,
+and in fossil character. Sometimes rolled fragments of the older
+stratum are interposed between it and the new overlying beds, further
+revealing the activity of denudation before the newer member began
+to be deposited.
+
+If fracture by overthrust be unknown in Egypt, another type of
+fracture has produced effects of a far-reaching character. In certain
+regions of the earth, folding is no longer the conspicuous method
+by which the rock-components of its crust are displaced with regard
+to one another. In many instances small fissures have been observed
+in which the beds on one side have been thrown down to a lower level
+than they are on the other. These faults are frequently the result of
+great earthquakes, many striking examples of such occurrences having
+been noted during the major earth-movements within the last hundred
+years. It is probable, indeed, that many of the most important of
+these, such as the destructive earthquake of Messina, are due to
+further settling of the strata in relation to fracture-lines already
+determined. Naturally, this implies that there are certain spaces
+formed deep beneath the earth’s surface, which permit of these
+efforts to restrengthen the weak spots by filling up the gaps. In the
+extreme outskirts of Egypt these fault-lines have produced marvellous
+and striking effects, the most conspicuous being the remarkable
+depression which, commencing at the Gulf of Aqaba, penetrates far
+into the continent of Asia, giving rise to the Dead Sea (many hundred
+metres below the level of the Mediterranean), to the Jordan Valley,
+to the Lake of Tiberias, and the valley which continues this line
+northward. I have had the opportunity of personally studying some
+of these fault-lines in the Sinai peninsula, tracing them from an
+arched fold in the north, whose sides were being let down by faults
+in a series of steps, to a trough-fault, in which the younger strata
+are displaced bodily between the older ones. Where undisturbed, the
+succession in Sinai shows sandstone lying on granite, and limestone
+(containing definite groups of fossils) on sandstone. In the valleys
+due to these trough-faults, the granite hills tower 500 metres on each
+side, capped by small outlying fragments of the overlying sandstone,
+whereas in the valley itself the only rocks visible are limestones
+and sandstones often tilted at high angles, and thus revealing the
+tremendous displacement to which they have been subjected.
+
+[Illustration: Fig. 3.—Unconformity exhibited in the Fayûm.]
+
+[Illustration: Fig 4.—Fault exhibited by a Coal-seam.]
+
+Considering the earth-movements of Egypt as a whole, the evidence
+shows folding to have been the more important type of displacement on
+its western side, and intense faulting to have been most conspicuous
+in the east, while between these two extremes, the relative importance
+of folding and faulting will remain a contested point. The discussion
+will only close when the borders of the Nile Valley and the Gulf
+of Suez have been mapped with the accuracy and precision of a
+Geological Survey in Europe—a pious aspiration, whose realization
+can scarcely be hoped for while the broad geological picture is
+still being filled in.
+
+Egypt, then, has passed through a long history, of which the
+following seems to be the record put in dogmatic form. The ancient
+schists and granites which form the central core of its eastern
+arch, or anticline, the Red Sea hills, are witnesses to a period
+of sedimentation, of volcanic action, and of the influence of
+deep-seated molten igneous masses. Step by step these were revealed
+by denudation, becoming part of an ancient continent. In addition to
+a brief marine invasion during the Carboniferous period, there was a
+second advance of the sea in Cretaceous times, which is represented
+first by the deposit of such coarse detrital materials as the sands
+composing the Nubian sandstones. Then, as the depression increased,
+only the finer clayey materials reached the Egyptian region, and
+finally the sea covered, if not the whole, at least the greater
+part of its area for a lengthened period. With the close of the
+Eocene epoch a reverse movement set in, by which the pure white
+marine limestones of the Moqattam hills were capped by the sandy
+limestones and clays forming the brown-tinted beds of their upper
+portion, the whole being, in its turn, covered by the coarse flint
+and quartz gravel which containing silicified trees[5] is the chief
+desert-former in the immediate neighbourhood of Cairo, as also of
+a large area in north-west Egypt. Any gain by the sea since this
+period has been comparatively local and limited, and the present
+conditions suggest that the land is gaining on the sea rather than
+the reverse. The great fold-movements which we have seen to determine
+so many important features are relatively of very late date in this
+series of events, on their nature and position depending the present
+character and visible extent of the different formations.
+
+
+                 IV.—PHYSICAL TRANSFORMATION OF ROCKS.
+
+
+The geological features of Egypt as presented to-day are the results
+of the formation through varying conditions and the subsequent
+deformation of the rocks composing its solid crust; we may next
+consider the varied agencies through whose action these are now
+undergoing transformation. A comparatively small portion of this
+country is undergoing erosion by the sea, and if elevation be still
+taking place, there is rather gain from the sea than destruction
+by it.
+
+Very different, however, are the meteorological agencies which are
+at work fashioning the land as a whole, the effects of wind-blown
+sand, rain, and river being of prime importance. Different in these
+respects are the Eastern and Western Deserts of Egypt. If the western
+border of the river be examined in Southern Egypt, and especially in
+Nubia, the sight of huge masses of golden-tinted sand filling every
+wind-sheltered hollow might well leave the impression that the vast
+desert plain behind was covered by a pall of sand. Closer study
+has shown that these wind-swept expanses afford no protection or
+resting-place for the finer sands and that consequently their floor
+must be formed of the more solid materials which wind cannot carry
+before it. If this be realized, no astonishment will be felt that
+the Libyan Desert surface is composed of limestone, or of coarse
+gravels from between whose larger fragments all the finer sand has
+been swept away.
+
+[Illustration: Fig. 5.—Sand-erosion of Sandstone Cliff at Gebel
+el Tunb. Wadi Qena, Eastern Desert.]
+
+[Illustration: Fig. 6.—Amphitheatre in Side-valley of Um Leseifa,
+north-east of Qena, due to erosion of Limestone by the action of
+Temporary Torrents.]
+
+                                                       [Facing p. 10.]
+
+However, the wind-borne sand leaves its mark on the limestones,
+which in some places are seamed by delicate grooves parallel to
+the sand-blast, and in others, where they are softer, have been
+sculptured into low hummocks often scattered over immense tracts
+of country. The sand itself has a strangely local distribution,
+advancing across the desert in lines of enormous length, and usually
+trending in an almost meridional direction. The supply does not come
+from the south or south-west, as might at first sight be expected,
+but from the north, and most of the great dune-systems, which occur
+around and beyond the great oases, have their termination in the
+southern direction. Even the series of dunes, over 100 metres high,
+which prevented the Rohlfs party advancing westward from Dakhla to
+Kufra, come to an end further to the south, leaving the wide sandstone
+plains bare.[6] In the oasis of Kharga the dominant longitudinal type
+is replaced by huge crescentic dunes which, separated by broad spaces
+clear of sand, follow one another along a north-south line, and are
+not stopped in their onward march even by ridges of considerable
+size. The reasons have still to be found for these lines of special
+sand aggregation, though when studying the cataract district of Amara,
+the initial formation of a dune-system was seen to be determined by
+a local depression, which had given sufficient protection for the
+formation of a sandy base on which the dune could then be built up.
+
+[Illustration: Denudation Effects in a District of Sedimentary Rocks.
+
+Fig. 7.—Um Leseifa camp (looking west). The harder beds of limestone
+form precipitous ledges.]
+
+[Illustration: Denudation Effects in a District of Igneous Rocks.
+
+Fig. 8.—View of Diorite Hills near Gebel Sobeir, Eastern Desert
+of Egypt.]
+
+                                                       [Facing p. 11.]
+
+Not only are limestones grooved and seamed, but certain areas of
+the Western Desert are covered with curious melon-shaped masses,
+harder concretionary portions remaining after the softer materials
+of the beds have been carried away by wind-action, whereas in the
+region to the east of the Nile these concretions are still enclosed
+in the softer limestones.
+
+Still more striking is the effect of the wind-blown sand in the
+sandstone and granitic regions. Here the complex composition of
+the granite has made it a ready victim. The softer felspars and mica
+having been worn by the impact, leave the quartz grains loose upon the
+surface, and give the rock a “frittered” appearance. Holes have
+been formed in the windward side of the blocks, and the sand contained
+in them clearly shows the agency to which they owe their origin.
+
+Near the eastern edge of the Western Desert the effects of
+water-action become more conspicuous, on the borders of the Fayûm
+terrace-formation being a marked feature, and there is a transition
+to the dominant characteristics which mark the limestone country
+eastward of the Nile. Here, deep and intricate valley-systems have
+been cut out from a plateau which a few kilometres from the Nile
+is as flat as the great western plains. One of the best known
+examples is the Wadi Hof, near Helwan, with its ramifications,
+terminating in steep cliff-faces having all the appearances of “dry
+waterfalls.” Any doubt as to the active agent in their production
+is set at rest by an examination of the excellent photographs taken
+by various observers during the great storms which almost annually
+burst over this region. (The lecture was illustrated by a series of
+slides showing Wadi Hof in flood, and the cascades descending the
+“waterfalls” which terminate its side-channels, these being most
+kindly lent to the writer by Herr Züst, of the Electrical Service,
+Ministry of Public Works). The great annual and diurnal temperature
+variations (over 50° C.) aid in the work of denudation by preparing
+an immense amount of broken material through the contraction and
+expansion which they produce. As every material expands and contracts
+according as it is heated or cooled, so the different component
+parts of the rocks composing the earth’s crust are in constant
+movement with regard to one another, and the less homogeneous they
+are the greater the effect in breaking them up into small masses or
+particles. These loosened fragments which cover the surface of the
+desert are thus ready to be swept away by the rain-waters, and as we
+have already seen, it is owing to these effects, superadded to more
+subtle changes next to be considered, that the old volcanic rocks
+of Abyssinia yield the rich silt or mud of the Nile Valley. It would
+be difficult to estimate the rapidity with which these wild ravines
+are being deepened by any comparison with water-wearing effects in
+Europe. Any beds of soft sands and clays are rapidly dissected by
+the torrent waters, a feature which readily explains the absence
+of conspicuous hills in the Eastern Desert east of Esna, where the
+Cretaceous clays form the dominant constituent in the geological
+structure of the country. Whatever the effects of sand-erosion in the
+Western Desert or rain-erosion in the hills and on the plateaus of
+the Eastern Desert of Egypt, they come relatively but little under
+the notice of the dweller on the Nile, to whom the river-erosion
+and the reformation of new materials become of primary importance.
+
+Even the powerful agency of frost cannot be entirely dismissed from
+consideration in Egypt. Owing to the expansion of water when converted
+into ice, the rocks in whose cracks the water has collected are split
+asunder, and as we have recently noted, temperatures lower than 2°
+C. have been recorded in Cairo during the present winter (1910). On
+the great desert plateau which extends from Kharga Oasis to the Nile
+Valley, temperatures of 24° F. and 30° F. were also observed, and
+in the Red Sea hills and Sinai frost must be of common occurrence,
+as one mountain in the latter peninsula was ascended in snow, and
+the higher peaks are frequently covered in a white pall.
+
+The nature of a river system need not be dealt with in much detail
+here, as I have already discussed this subject in “Survey Notes”
+for April, 1907, under the title of “River Characteristics as
+illustrated by the Nile.” It may be well, however, to recall that a
+normal river passes through three distinct phases of activity. In its
+mountain tract (for most large rivers arise in the higher altitudes)
+there is maximum erosion and backward growth of the river system. In
+its central portion, or valley tract, the stream is acting as a
+transporter of eroded material, and such erosion as there is, is
+downward rather than sideward. Finally, the plain tract is the region
+of deposition of the materials so carried, erosion being lateral,
+and the growth of the stream bed forward in the form of a fan-shaped
+delta where the transported sands and clays enter the sea.
+
+But this general succession may be further complicated by
+circumstances depending upon the geological conditions. In Egypt and
+the Sudan the Nile passes from areas where it flows peacefully and
+quietly, usually of considerable breadth and bounded by fertile lands,
+to others in which it is restricted, dashing down steep slopes in
+rapids and cataracts. A geological examination has shown that in
+the first case the river is flowing over and between sedimentary
+homogeneous rocks, such as the limestones and sandstones, while in
+the second instance it has entered regions composed of heterogeneous
+igneous and metamorphic rocks, such as the granites, gneisses and
+schists. The production of these rapids is due to the combination of
+steep slope and the difference between harder and softer materials,
+the rapidly-moving waters wearing away those more easily denuded,
+while the compact members remain as obstacles to their advance,
+and are only slowly worn away along joint-planes and other lines of
+weakness. In the Third Cataract, hard bars of granite rising through
+softer gneiss at right angles to the river course have produced the
+main rapids; elsewhere, as at the Bab el Kebir, near Wadi Halfa, the
+river has taken advantage of a thin dyke of soft rock traversing an
+extremely hard diorite, so that the stream has worn a narrow gully
+between steep rock-walls, where the intensity of the rush of water
+is greatly exaggerated owing to its being restrained and fettered
+by the narrowness of the passage. In some cases the same result has
+been produced owing to the existence of a line of fracture, or fault,
+across the stream, the waters taking advantage of this line of least
+resistance. The general erosion in these rapids is accompanied
+by great local effects where eddies and whirlpools are produced,
+and the sand and rocky fragments act as abrading agents. Pot-holes
+are formed in the solid rock, and rapidly deepened by the intense
+effects of this nature produced during times of flood, the result
+being splendidly illustrated in some of the smaller islands of the
+First Cataract at Aswan.
+
+A river is, in fact, the main agent combining the effects of
+transformation and reformation, new strata being produced in its
+plain tract as the result of the eroding activities in its upper
+reaches. Much of the detrital material is also carried seaward to
+form deposits of marine sands and muds along the shore-lines of the
+continents, these themselves becoming, should subsequent differential
+movement of land and sea take place, the sandstones and clays of
+future continental areas.
+
+But there are other agencies at work as transformers on and within
+the earth’s crust. There are in most rocks a series of divisional
+planes, which may be either vertical or inclined, and to which
+the name of joints has been given. These may arise from various
+causes. Both in sedimentary and igneous rocks they are in part
+due to contraction during consolidation—in the former when they
+lose their contained water, in the latter when they solidify from a
+molten condition. Joints may also be called into being by the effects
+of internal pressures and movements within the earth’s crust,
+such structures having been experimentally reproduced by Daubrée
+in materials under stress by torsion and by simple pressure. The
+granite of Aswan displays such jointing to a marked degree, giving
+rise to remarkable hills composed of huge boulders of granite piled
+on one another.
+
+
+                 V.—CHEMICAL TRANSFORMATION OF ROCKS.
+
+
+Besides the mechanical effects of river, rain, and wind, other changes
+whose wide-reaching significance cannot be over-estimated, are taking
+place on and below the earth’s surface. Chemical action is slowly
+at work producing effects of the first importance to man. Rain-water
+has the power of absorbing important quantities of carbonic acid
+gas and oxygen from the atmosphere. On the average, rain-water
+contains 1·77 per cent by volume of dissolved carbonic acid gas,
+and 33·76 per cent of dissolved oxygen. In passing through the soil,
+rain-water also absorbs the organic acids formed by the decomposition
+of plant remains. These dissolved gases and organic acids render rain
+an active chemical agent in the alteration of rocks, its effects
+being conveniently classified under the headings: (1) Oxidation;
+(2) Solution; (3) Formation of Carbonates; and (4) Hydration.
+
+(1) Oxidation results in the formation of thin crusts on the
+surface of rocks, the compounds of manganese and iron so frequently
+present in them being also rusted or hydrated by the action of the
+rain-water. Nothing is more striking than the presence of the dark
+films on the desert limestones in regions which are liable to a
+certain amount of rainfall, and nothing more convincing as to their
+origin than their absence in those portions of the south-western
+desert of Egypt where rain is of great rarity. Near the Nile, the Red
+Sea and the Mediterranean, dew may take the part of rain in action,
+and in a sense the results of its activity may appear more intense,
+as rain is liable to wash away the products of its own handiwork.
+
+(2) The effects of Solution are of the greatest importance,
+limestone being soluble to the extent of about 1 part in 1,000 in
+water saturated with carbonic acid. In many limestone countries of the
+world the solution effects are marked by the production of underground
+caves and channels and in some parts of the north-eastern desert of
+Egypt, where chalky limestones are the main constituent, this action
+has produced remarkable results—large caves, cylindrical channels,
+and natural bridges being of not uncommon occurrence.
+
+(3) Formation of Carbonates. Owing to the rains in Egypt being of very
+brief duration, but nevertheless extremely active while they last,
+the soluble material in the condition of the unstable bicarbonate
+of lime is carried only a short distance, and losing its loosely
+combined carbonic acid is redeposited in the cracks of the rocks,
+as veins of carbonate of lime, or as the cementing material by
+which broken fragments are consolidated into compact breccias. This
+action may be seen in the cliff face south of the Pyramids, near the
+Sphinx, where the sandy limestones forming the top of the hill have
+been attached by the rain containing carbonic acid. The calcareous
+tests of the shells in the sandy limestones have been dissolved away,
+leaving only the sandy internal casts of the shells behind, and the
+material so removed has been redeposited in intricate interlacing
+veins in a clayey band immediately below. A vein may sometimes grow
+by the accretion of successive layers, which, owing to local causes,
+such as the relative content of iron oxide, etc., may display slightly
+different colours, one of the results being the production of so
+interesting a rock as the Egyptian alabaster, which is a carbonate
+of lime. As a rule, the term alabaster is applied to the sulphate
+rather than to the carbonate of lime. Probably much carbonate of
+lime is also carried in solution to the sea, and there forms the
+source of the material which hundreds of living animals seize upon
+for the production of the shells in which they dwell. I was much
+struck last year, during a journey from the Pyramids to Wasta, to
+note how the oyster-beds of one age (the Pliocene) formed themselves
+upon oyster-beds of a long preceding period (the Eocene), probably
+on account of the greater amount of carbonate of lime at those
+localities, present owing to solution of the earlier shell-structures.
+
+That veins of carbonate of lime should be present in limestone
+districts is, in view of the above statements, not surprising,
+but it does appear somewhat startling at first sight, to find
+marked deposits of carbonate of lime lining the floors and sides of
+torrent-beds in districts entirely composed of igneous or volcanic
+rocks of complicated mineral structure. Experience has shown,
+however, that the lime silicates, so abundant in the more basic
+members of the igneous series, such as diabases and diorites, are
+liable to the attack of the rain-waters containing carbonic acid,
+carbonate of lime being produced by the reaction.
+
+(4) Of the results of Hydration, the most striking examples in Egypt
+are the formation of kaolin near Aswan, due to the absorption of water
+by the felspars of the granitic and gneissose rocks, and the thick
+zone of decomposition (kaolinic) products, which was cut through in
+excavating the navigation canal in the syenite which forms the main
+rock at that locality.
+
+The total effect of all the above-mentioned meteorological influences
+results in the weathering of the rock-surface, involving the softening
+and crumbling of the harder materials, but sometimes leading to
+the solidification of materials previously loosely aggregated by
+substances left as cementing agents when the water containing them
+in solution has evaporated.
+
+In addition to the various direct results of the meteorological
+activities upon the earth’s surface, there are others which
+indicate more subtle changes. Perhaps amongst the most interesting
+of these is the formation of concretions—bodies composed of one
+material aggregated in more or less rounded or irregular form in a
+rock of another composition. Among the most interesting and abundant
+of these are the layers of flint, which form bands of strikingly
+parallel character in the limestones of Upper Egypt. These have not
+yet been submitted to the detailed study which similar concretions
+have received in Europe, but there is little doubt that they,
+in large measure, represent the aggregation of gelatinous silica
+round decomposing organic materials, the shells of organisms and the
+framework of siliceous sponges often forming their centre. In some
+cases, as in the fossil trees, the replacement appears to have taken
+place molecule by molecule, as the outlines of every cell of the once
+woody fibre are now replaced in silica. By a well-known transition,
+this once gelatinous material has now become one of the most solid
+of substances.
+
+Ferruginous concretions, composed of oxide of iron, are present in
+many of the Egyptian sandy clays, some of the beautifully-tinted
+purple, yellow and red ochres being found in this form; and
+the natives collect them for the use of the women as ornamental
+coloration.
+
+Of greater importance to the world at large are the gradual changes
+which vegetable matter (collected under specially favourable
+circumstances free of all sandy and clayey admixture) has undergone
+through vast periods of time, causing the slow evolution of the
+oxygen, hydrogen and nitrogen, originally present, with a gradual
+predominance of the carbon. This passage from vegetable matter to coal
+has been noted in Egypt in connection with the Nubian sandstone,
+beds of carbonaceous material deserving the name of lignite or
+even bituminous coal having been found at various localities. The
+deposits found up to the present time are of such tenuity that it
+is not possible on the evidence available to express optimistic
+opinions as to the probable occurrence of workable coal in Egypt,
+but still they are of sufficient interest to be kept constantly in
+mind while the Geological Survey is prosecuting its researches. From
+time to time the finding of coal-seams has been reported at Edfu,
+in Kharga, at Saqiet el Teir and Abu Radham[7] in the Eastern Desert,
+but the efforts hitherto made have resulted in failure.
+
+The evidence thus far available shows that great rivers were entering
+the sea in Nubia during an early geological period (the Cretaceous),
+typical fresh-water shells having been found south of Aswan covered
+with marine worm-tubes; leaf-imprints are abundant in some of
+the sandy layers, and in isolated instances they have collected
+in sufficient quantity to give rise to lignite and bituminous
+coal-layers of extreme thinness, showing that this interesting
+and important change has taken place, at least to some extent,
+in Egypt itself. The study of coal-producing regions tends to show
+that the change to coal of high commercial value requires not only
+conditions favourable to the loss of the more volatile gases, but
+also that the beds must have been involved in great earth-movements,
+which have hastened the tendency to their being enriched in carbon,
+both favourable conditions of deposition and marked disturbance of
+the strata being thus required to obtain the much-desired result.
+
+Other internal chemical activities are at work, producing changes
+which are still the cause of debate and earnest study. The origin of
+petroleum must undoubtedly be traced to chemical transformations of a
+complicated character, if we may judge by the number of experimental
+methods which yield petroleum as a product. All opinions agree that
+the mineral oil is derived by some form of chemical action, though
+whether it arises from the decomposition of organic remains or whether
+it be of inorganic origin is still matter of dispute. Geological
+students have on the whole ranged themselves on the side of the
+first-named view, pointing out that the petroleum fields are all
+associated with sedimentary strata, whether sands or limestones. The
+inorganic view has been held as tenaciously by a number of men
+experienced in the search for oil, and it is capable of argument
+that sulphur dioxide and sulphuretted hydrogen, if being produced
+simultaneously, may result in the alteration of limestone to gypsum,
+free sulphur and petroleum being also obtained in the reaction.
+
+In this connection it is interesting to note that gypsum, sulphur
+and petroleum are associated at Jemsa, on the Gulf of Suez.
+
+One of the most interesting features in connection with petroleum is
+the phenomenon presented in most oil-fields of oil-wells separated
+perhaps by only thirty metres emitting oil under pressure at the
+same time; also the great pressures indicated by the remarkable
+fountain flows which are of constant occurrence in the principal
+petroleum fields.[8]
+
+
+                  VI.—THE FORMATION OF IGNEOUS ROCKS.
+
+
+The external and internal transforming agents are therefore of
+the deepest interest and of the highest economic importance,
+and the further study of the deep-seated changes leads directly
+to a consideration of the formation and sustained activity of the
+molten materials which find their main present-day expression in the
+phenomena of volcanoes. Their extension in the past is also revealed
+by the wearing hand of time in the wide distribution of coarsely
+crystalline granites and other igneous rocks, once deep-seated,
+but now exposed in regions which are either the cores of ancient
+continents or centres of exceptional deformation.
+
+Igneous action and movements of the earth’s crust stand in intimate
+relation to one another, a point which has been clearly stated by
+Dr. Harker[9] as follows:—“Setting aside operations conducted in
+hypothetical intercrustal magma-basins, or generally in the unknown
+depths of the earth’s crust, we recognize the actual manifestations
+of igneous action chiefly in the forcing outward of molten magmas from
+a lower to a higher level within the crust or through the crust to the
+surface.” This study has led directly to the recognition of three
+phases of igneous action, of which two are intrusive, being phases in
+which the molten materials are raised from a lower to a higher level
+within the earth’s crust, and an extrusive phase, in which these
+materials are raised to the surface and poured out there as lavas.
+
+Study in all parts of the world has further shown that these events
+follow a definite sequence or cycle of igneous activity, volcanic
+phenomena marking its commencement, followed by the movement of
+deep-seated igneous molten magmas (representing the plutonic phase),
+and closing with a number of minor intrusions, which may seam both the
+volcanic, plutonic, and sedimentary strata. Egypt clearly illustrates
+this remarkable succession, and thus gives additional grounds for
+believing that it is of fundamental importance. Volcanic activity
+was developed on a gigantic scale when the most ancient sediments
+of Egypt, now forming the folded and altered slates and schists
+of the Red Sea hills, were being laid down. To this part of the
+cycle belong some of the most interesting rocks of the country,
+the imperial porphyry of Dokhan, the dark andesites that crown
+the highest summits in Sinai, and the country-rock in which some
+of the most ancient of Egypt’s gold-mines are situated. Here,
+too, belong the banded and columnar lavas of the Sixth Cataract,
+and the fragments of volcanic rocks which play an important part in
+the characteristic conglomerates of the Eastern Desert.
+
+Still more conspicuous is the phase of plutonic activity, vast
+masses of granite, diorite, and other highly crystalline rocks
+as molten magmas having been in contact with or intruded into the
+overlying sediments and volcanic materials. From Sinai to the Sudan
+there is a geographical complex due to the intermingling of these
+deep-seated igneous rocks with the older and metamorphosed volcanic
+and sedimentary members. Desolate volcanic hills of dull-green shade,
+whose sides are covered with weathered debris of irregular outline,
+alternate with broad plain, out of which rise rounded masses
+of granite, or with mountain ranges, whose precipitous sides and
+serrated outlines constitute some of the most striking features of
+the Red Sea hill scenery.
+
+The final phase, that of the minor intrusions, is admirably
+illustrated in Egypt, large areas of the desert consisting of low
+ridges formed of parallel bands or dykes of hard rocks, which have
+seamed the softer granite, the latter having subsequently been worn
+down by erosion. In other cases the dyke is of more basic composition
+and more easily denuded than the adjacent rocks.
+
+When these evidences of past igneous activity are examined, they
+reveal the interplay of such varied and complicated chemical and
+physical effects that a large volume would be required to set forth
+the great body of facts observed. Of these only a bare statement of
+the most incomplete order must suffice. Igneous rocks are of very
+variable chemical composition, and for the purposes of discussion of
+their complex relationships have been subdivided into three series
+according to the amount of silica they contain, viz.:—The Acid
+Rocks with 50 to 70 per cent silica; The Intermediate Rocks with 50
+to 60 per cent silica; The Basic Rocks under 50 per cent silica. As a
+whole, the igneous rocks are compounds of the silicates of alumina,
+magnesia, lime, potash and soda, with oxide of iron; the silicates
+of alumina, soda and potash are most abundant at the acid end of
+the scale, and those of lime, magnesia, with the oxides of iron
+and phosphates at the basic extreme. In consequence, the basic
+rocks are usually darker in colour and heavier than the more acid
+varieties. Not only have the igneous rocks a varying composition,
+but also a varying structure depending on the differences of
+origin and position. We may note their history as involving several
+stages, viz.:—(1) Solidification from the initial molten magma;
+(2) Deformation when under the influence of great earth pressures;
+(3) Transformation under the meteorological influences, at or near
+the earth’s surface. In addition there are the contact alterations
+produced near their junctions with the overlying strata, both within
+themselves and in the beds affected by the molten material.
+
+A molten magma varies greatly in its behaviour according to
+its position, the solidification of that portion which remained
+deep-seated in the hidden reservoir beneath the earth’s crust
+taking place slowly and imperceptibly. A rock such as granite is
+not formed suddenly by instantaneous cooling, but step by step
+individual minerals are crystallized from the complex solution, and
+tend to develop as regular and often most beautiful crystals. It
+is a source of surprise to most to learn that the greater number
+of mineral substances, if free to develop from solution without
+external hindrances, tend to form solid bodies which are fashioned on
+geometrical principles, constituting one of the most interesting and
+mysterious problems with which scientific thought has to deal. The
+minerals, as a rule, tend to crystallize out directly in the order
+of their basicity, the oxides of iron with their eight-sided crystals
+being among the first, so that their octahedral outlines are usually
+well preserved. The other minerals of the rocks follow in succession;
+sometimes complicated intergrowths occur owing to two crystals of
+different composition starting their formation at the same time in the
+same portion of the solution. Finally, the last-formed minerals have
+to occupy the interspaces left by their consolidated neighbours, and
+in the more acid rocks this unenviable position is usually reserved
+for the free silica, forming _quartz_. These deep-seated masses,
+slowly solidified and entirely crystalline in their structure,
+have been called the _Plutonic_ rocks, the example familiar to all
+dwellers in Egypt being the red Aswan, or monumental granite. In it,
+the felspars and micas or hornblendes present tend towards their
+true crystal form, while the quartz occupies the interspaces.
+
+Intermediate between the extruded volcanic rocks, and the highly
+crystalline varieties of the internal reservoirs of molten material,
+are the dyke or hypabyssal rocks, which as narrow vertical or nearly
+vertical intrusions pass in all probability from the deep-seated
+source towards the surface of the earth, when they reach it giving
+rise to volcanic effects. The dykes have a tendency to be parallel to
+one another, and in some regions are the most conspicuous features,
+if harder than the surrounding rock giving rise to marked ridges
+separated in many cases by comparatively shallow valleys. Not a few
+of the main summits in the Red Sea hills and Sinai have assumed their
+present form and outline owing to the unequal denudation of one of
+these hard bands, while many an ascent, which otherwise would have
+been by no means free from danger, is simplified by the formation of
+gullies due to the wearing away of the softer and more basic members
+of this series.
+
+In the hypabyssal varieties, as well as in surface flows, an
+examination of hand-specimens often reveals the presence of
+larger crystals (usually termed porphyritic crystals) scattered
+in a ground-mass in which no definite structure is visible except
+under the microscope. These may in part have been formed before
+the molten magma of the rock had begun its upward ascent, but in
+general they and the finer-grained base, have crystallized under
+similar conditions. Examinations of the ground-mass microscopically
+also shows it to be entirely crystalline in its nature, but the
+individual components are of very small size.
+
+In the extruded volcanic rocks, on the other hand, the porphyritic
+crystals are probably of much earlier date than the ground-mass in
+which they are present, the latter being solidified above-ground,
+where cooling was rapid, pressure suddenly reduced, and many of
+the gaseous constituents were free to escape readily. As crystals
+require a certain temperature and a slow liberation of the heat for
+their formation, in many volcanic rocks the rapid cooling results
+in the production of a glass instead of a crystalline aggregate,
+so that the presence of a glassy matrix is in itself evidence of a
+quick loss of heat.
+
+
+               VII.—THE FORMATION OF METAMORPHIC ROCKS.
+
+
+All materials, both sedimentary and igneous, composing the earth’s
+crust, are liable to be involved in movements of deformation, becoming
+subject to pressures and chemical agencies, which are often intense
+in character and productive of far-reaching internal changes. The
+result is the formation of a series of rocks, which may be of divers
+origins, but which having lost their original characteristics,
+may be grouped as metamorphic. By the action of compression
+and dislocation not only are the major masses folded or broken,
+but their individual constituents are brought into new relations
+both as regards their external conditions and internal molecular
+arrangement. Where lateral pressure has been active as regards the
+finer-grained rocks, such as clays, the individual particles arrange
+themselves with their longer axes at right angles to the pressure,
+the result being the production of a fissile structure or cleavage,
+totally distinct from the original bedding-planes of the strata.
+
+Clays under such circumstances pass into slates, in which no very
+definite mineral banding is observed, or into schists, in which there
+is a tendency for the separate minerals, such as mica and quartz, to
+have a pseudo-stratified appearance, though the individual layers,
+if closely examined, are found to be lenticular, not parallel in
+shape. These schists and slates are developed on a large scale in
+the Red Sea hills and Sinai.
+
+The extent to which compression and tension has been carried in
+these ancient sedimentary strata is well indicated in Sinai, where
+rounded pebbles of quartz have been fractured, the two broken parts
+somewhat separated, and the whole re-cemented in a schistose matrix.
+
+In many instances, besides mechanical stress, another factor of
+metamorphism of rocks has to be invoked to explain the phenomena
+observed. Mineral changes take place in these rocks which are due
+to the superadding of thermal action, consequent on their direct
+contact with molten masses of granitic and other plutonic rocks. In
+Sinai, for instance, new minerals are called into existence by
+these contact effects, members of the _andalusite_ group, which
+are formed at high temperatures, being produced near the junctions,
+garnets being present in the mica-schists in a zone somewhat further
+removed from the contact area, while beyond these is a belt where the
+slaty strata show only traces of the formation of the new minerals
+in the presence of ill-defined knots, or segregations forming the
+so-called “Knotenschiefer” of the Germans.
+
+It is possible to trace the influence of these contact and dynamic
+effects, not only in the sedimentary rocks, but also in those of
+plutonic origin. An excellent example of such changes, known as
+foliation, can be observed in the Dal Cataract, where a granite is
+present containing large crystals of red felspar. It is possible
+to trace the change of this rock into a variety which instead
+of being massive, is banded, the bands containing the larger red
+felspars all tending to lie in one plane. These are not parallel,
+but lenticular, certain of the minerals, especially the felspars,
+remaining comparatively unaffected as “eyes,” round which the
+other minerals appear to sweep. The quartz in many instances is
+found to be crushed into a mosaic of small grains, and the plates
+of mica have been dragged out and separated from one another by
+the shearing. These rocks, having a general composition resembling
+the granites, have been termed gneisses, and in some cases, similar
+effects have been produced by the intrusion of veins of granite along
+the horizontal planes of a more basic rock already banded. This result
+is well seen in the Third Cataract, where a foliated rock composed of
+a white felspar and mica has been pierced by veins of highly quartzose
+granite, which has then spread along the laminæ of the older member.
+
+Similarly in Sinai, the granite, where in contact with the schistose
+sedimentary beds, has in certain favourable localities penetrated
+between the schistose layers, producing a banded rock which approaches
+a gneiss in character.
+
+In Egypt, we are not at present acquainted with such gigantic
+overfolding, fracture, and pushing of whole masses of strata one
+over the other, as have been studied, for example, in the North-West
+Highlands of Scotland, but there is in Egypt itself, a vast series
+of gneisses, crystalline schists, marbles and dolomites whose
+origin is but dimly understood, and which may represent changes
+long anterior those exhibited by the ancient rocks of which we have
+been speaking. Developed in the untrodden wastes of the Sudan, in
+the wilder stretches of the Cataracts, in the desolate regions of
+the Etbai Desert of Egypt, their study is attended with difficulty
+and all our hypotheses must depend on the comparison of isolated
+specimens with similar rocks from more favoured regions.
+
+
+                               SUMMARY.
+
+
+1.—Every rock originates either from the solidification of
+molten material or of sediments, these constituting the Igneous and
+Sedimentary Rocks respectively.
+
+2.—These may undergo deformation due to movements of the earth’s
+crust, such movements according to their intensity determining
+the re-arrangement of the constituents with the development of new
+structures, producing the Metamorphic Rocks.
+
+3.—These varied rocks, when exposed at the earth’s surface, are
+brought under the influence of the agents of transformation, such as
+frost, contraction and expansion due to variations of temperature,
+the mechanical action of rain, sand borne by wind, and running
+water in the form of streams. In addition to these purely physical
+activities are others of a chemical nature, either proceeding from
+changes outside the terrestrial surface (carbonic acid dissolved in
+rain, etc.), or from processes operating within the earth’s crust
+(production of petroleum, coal, mineral veins, etc.).
+
+4.—The chemical and physical activities deep within the earth’s
+crust result in the formation of the plutonic rocks solidified from
+molten solutions, intimately associated with them being the external
+manifestations of the working of these hidden forces as revealed in
+volcanoes and their associated phenomena.
+
+5.—By the surface changes on the consolidated igneous and other
+rocks, the materials are supplied for the formation of some of the
+members of the sedimentary series, the sands and clays, while the
+limestones in large measure owe their origin to the property possessed
+by living animals of constructing shells from the carbonate of lime
+brought in solution to the oceans, etc., these shells, after the death
+of the animals, contributing to the formation of the calcareous rocks.
+
+
+FOOTNOTES:
+
+
+[Footnote 1: In geology, the term _rock_ is applied alike to the soft
+and hard materials composing the earth’s crust, as sands may pass
+into solid sandstones, soft muds become the most tenacious of clays,
+and hard basalt originate as a molten lava.]
+
+[Footnote 2: This statement may not absolutely apply to Cairo itself,
+seeing that in the disturbed region of Abu Roash sandstone is actually
+at the surface, and the clays are less conspicuously developed than
+is the case to the south.]
+
+[Footnote 3: Figs. 1, 2 and 4 are based on photographs of localities
+in Great Britain and Ireland taken for the Geologists’ Association
+collection of photographs.]
+
+[Footnote 4: Farafra is an exception to this rule, the depression
+being due to the wearing away of soft Cretaceous beds higher than
+the sandstone.]
+
+[Footnote 5: The well-known Petrified Forests.]
+
+[Footnote 6: From information given by Mr. Harding King.]
+
+[Footnote 7: At Abu Radham a dark layer of purple iron ochre seems
+to have been the cause of the investigation.]
+
+[Footnote 8: For further details, see my paper “Petroleum:
+Its occurrence and origin,” Cairo Scientific Journal, No. 48,
+pp. 205-218.]
+
+[Footnote 9: “The Natural History of Igneous Rocks,” p. 23.]
+
+
+
+
+                            SHORT CATALOGUE
+                                OF THE
+                    =MAPS, PLANS, AND PUBLICATIONS=
+                             ISSUED BY THE
+            SURVEY DEPARTMENT, MINISTRY OF FINANCE, EGYPT.
+                               * * * * *
+
+                           =MAPS AND PLANS.=
+                               * * * * *
+
+The following is a general list of the maps and plans offered for
+sale by the Survey Department. A booklet giving details of all sheets
+printed may be obtained free, on application either personally or
+by letter at the Headquarters of the Department, Giza (Mudiria),
+or at the Geological Museum, Public Works Ministry Gardens, Cairo,
+where all maps and plans are for sale, or through any bookseller.
+
+Except where specially stated, the price of each map-sheet is 50
+milliemes on paper, and 65 milliemes on cloth, and they are sent
+post free by the Department.
+
+The reference marks denote: (*) map is in Arabic only; (†) map is in
+English only; (*†) map bears place-names both in Arabic and English;
+(*) (†) map can be obtained either in Arabic or English.
+
+
+                             =Town Maps.=
+
+
+The following list gives particulars of the maps published. The
+map of Alexandria, on the scale of 1:1,000 will be completed during
+1911. The survey of Cairo on the scale of 1:1,000 is in progress.
+
+  Cairo (*†), 30 sheets, scale 1:1,000 (in preparation).
+
+  Alexandria (*†), 147 sheets, scale 1:1,000.
+
+  General map of Alexandria Municipality (French and Arabic), 10
+  sheets, scale 1:6,000.
+
+  Mit Ghamr (*†), 4 sheets, scale 1:1,000.
+
+  Mansura (*†), 16 sheets, scale 1:1,000.
+
+  Suez (*†), 20 sheets, scale 1:1,000.
+
+  Suez (*†), 1 sheet, scale 1:2,500.
+
+  Sohag (*†), 6 sheets, 1:1,000.
+
+  Tanta (*†), 15 sheets, scale 1:1,000.
+
+  Girga (*†), 6 sheets, scale 1:1,000.
+
+  Aswan (*†), 23 sheets, scale 1:1,000.
+
+  Port Said (in French), 1 sheet, scale 1:5,000.
+
+  Zagazig (*†), 20 sheets, scale 1:1,000.
+
+  Damanhur (*†), 14 sheets, scale 1:1,000.
+
+  Benha (*†), 25 sheets, scale 1:1,000.
+
+
+                           =Cadastral Maps.=
+
+
+These are maps of the villages showing each _hod_ and plot of
+land. They are printed in Arabic only. In ordering, the name of
+the village and the numbers of _hod_ and plot should be given. The
+following list gives the particulars of the maps for each mudiria
+(province):—
+
+  Beheira mudiria (*), 3,300 sheets, under survey, scale 1:2,500.
+
+  Gharbia mudiria (*), 3,460 sheets, scale 1:4,000 and 1:2,500.
+
+  Daqahlia mudiria (*), 2,237 sheets, scale 1:2,500.
+
+  Sharqia mudiria (*), 2,974 sheets, scale 1:2,500.
+
+  Menufia mudiria (*), 2,173 sheets, scale 1:4,000 and 1:2,500.
+
+  Qaliubia mudiria (*), 778 sheets, scale 1:2,500.
+
+  Giza mudiria (*), 766 sheets, scale 1:4,000.
+
+  Fayum mudiria (*), 2,263 sheets, scale 1:2,500.
+
+  Beni Suef mudiria (*), 942 sheets, scale 1:2,500.
+
+  Minia mudiria (*), 1,635 sheets, scale 1:2,500.
+
+  Assiut mudiria, including Kharga Oasis (*), 2,273 sheets, scale
+  1:2,500.
+
+  Girga mudiria (*), 1,313 sheets, scale 1:2,500.
+
+  Qena mudiria (*), 1,568 sheets, scale 1:2,500.
+
+  Aswan mudiria (*), 1,076 sheets, scale 1:2,500.
+
+
+                         =Topographical Maps.=
+
+
+Scale 1:10,000 (10 cm. = 1 kilometre; 6·3 inches = 1 mile).—The
+names on these maps are in most cases in Arabic and English. The
+following table shows the number of sheets published:—
+
+  Beheira mudiria (*), 260 sheets.
+
+  Gharbia mudiria (*†), 213 sheets.
+
+  Sharqia mudiria (*†), 29 sheets.
+
+  Daqahlia mudiria (*†), 11 sheets.
+
+  Menufia mudiria (*†), 73 sheets.
+
+  Qaliubia mudiria (*†), 65 sheets.
+
+  Giza mudiria (*†), 90 sheets.
+
+  Fayum mudiria (*†), 126 sheets.
+
+  Beni Suef mudiria (*†), 21 sheets.
+
+  Assiut mudiria, including Kharga Oasis (*†), 72 sheets.
+
+  Aswan mudiria (*†), 63 sheets.
+
+  Aswan or First Cataract (†), 6 sheets.
+
+  The Nile Valley from Aswan to Korosko(†), 36 sheets (paper only,
+  25 milliemes each).
+
+Scale 1:25,000 (4 cm. = 1 kilometre; 2·5 inches = 1 mile).—A
+provisional map of Northern Gharbia has been published on this scale,
+pending the publication of the 1:10,000 sheets of this area. There
+are 91 sheets.
+
+Scale 1:50,000 (2 cm. = 1 kilometre; 1·3 inches = 1 mile).—These
+maps are printed in three colours. Names are given in English,
+and as a rule in Arabic as well. This series is completed for the
+whole of the cultivated area of the Nile Valley and Delta. There
+are 145 sheets.
+
+Scale 1:1,000,000 (1 cm. = 10 kilometres; 1 inch = 16 miles).—The
+six sheets of this map, covering the whole of Egypt, have now been
+published. The names are in English. The price of each sheet is 50
+and 65 milliemes for paper and cloth editions respectively, or the
+whole can be obtained mounted on cloth, varnished, and fitted with
+rollers for 550 milliemes.
+
+
+                   =Special Maps on Various Scales.=
+
+
+  Map of the Delta (†), 4 sheets, scale 1:200,000. Price, 75 milliemes
+  per sheet, or the complete map mounted on cloth, varnished and fitted
+  with rollers, 700 milliemes.
+
+  Lower Egypt and the Fayum, 1904 (latest edition) (†), 1 sheet,
+  scale 1:500,000.
+
+  Lower Egypt, showing lines of communication (†), 1 sheet, scale
+  1:500,000.
+
+  Northern Gharbia (*†), 1 sheet, scale 1:200,000.
+
+  Kharga Oasis (†), 1 sheet, scale 1:500,000.
+
+  Dakhla Oasis (†), 1 sheet, scale 1:500,000.
+
+  Baharia Oasis (†), 1 sheet, scale 1:500,000.
+
+  Farafra and Iddalia Oases (†), 1 sheet, scale 1:500,000.
+
+  Provisional map of the Eastern Desert of Egypt, East Qena-Aswan to
+  Red Sea (†), 20 sheets, scale 1:100,000.
+
+  Provisional map of the Eastern Desert of Egypt, between Qus, Sayala
+  and Red Sea (†), 2 sheets, scale 1:500,000.
+
+  Provisional map of a part of the Eastern Desert Oilfield (†),
+  1 sheet, scale 1:100,000. Price, 100 milliemes on paper and 150
+  milliemes on cloth.
+
+  Provisional map of a part of the Eastern Desert Oilfield, showing
+  registered prospecting areas (†), 1 sheet, scale 1:100,000. Price,
+  100 milliemes on paper and 150 milliemes on cloth.
+
+  Red Sea and Sinai Oilfield, showing registered prospecting areas
+  (†), 1 sheet, scale 1:316,800. Price, 100 milliemes on paper and
+  150 milliemes on cloth.
+
+  Jemsa Oil Zone (†), 1 sheet, scale 1:75,000 and 1:250,000. Price,
+  50 milliemes.
+
+  Mersa Matruh chart (†), 1 sheet, scale 1:4,500.
+
+  Mersa Matruh topographical map (†), 1 sheet, scale 1:10,000.
+
+  Mersa Matruh and Ras Allam Rum (†), 2 sheets, scale 1:25,000.
+
+  Aqaba-Rafa, 1906 (*†), 3 sheets, scale 1:100,000.
+
+  Aqaba-Rafa, 1906 (*) (†), 1 sheet, scale 1:500,000 (paper, 25
+  milliemes; cloth, 40 milliemes).
+
+  The Nile Valley from Aswan to Sudan boundary (†), 1 sheet, scale
+  1:250,000.
+
+  Port d’Alexandrie (French), 3 sheets, scale 1:4,000.
+
+
+                   =Wall-Maps, for use in Schools.=
+
+
+The price of each map is 700 milliemes, except that of the
+Mediterranean Basin, which is 500 milliemes. Each map is mounted on
+cloth, varnished, and fitted with rollers. The following list gives
+the maps published and in preparation:—
+
+  Africa (physical) (*), scale 1:6,000,000.
+
+  Africa (political) (*), scale 1:6,000,000.
+
+  The Nile Basin (*) (†), scale 1:2,500,000.
+
+  Egypt (*) (†), scale 1:750,000.
+
+  The Delta and the Fayum (*), scale 1:200,000.
+
+  Mediterranean Basin (*), scale 1:3,000,000.
+
+  Western Europe and the British Isles (*), scale 1:1,500,000.
+
+  Asia (physical) (*), scale 1:6,000,000.
+
+  Asia (political) (*), scale 1:6,000,000.
+
+  Europe (physical) (*), scale 1:3,000,000.
+
+  Europe (political) (*), scale 1:3,000,000.
+
+  The World (*) (Mercator’s projection).
+
+  The Hemispheres (Eastern and Western) (Airy’s projection)
+
+  British Isles, scale 1:750,000.
+
+  North America (*) (physical) 1:6,000,000.
+
+  North America (*) (political) 1:6,000,000.
+
+IN PREPARATION:—
+
+  South America (physical) 1:6,000,000.
+
+  South America (political) 1:6,000,000.
+
+
+                          =Geological Maps.=
+
+
+Geological map of Egypt, scale 1:1,000,000. English. Six sheets,
+70 × 58 cm. Price, 100 milliemes per sheet. Complete map, mounted
+on cloth, varnished and fitted with rollers, 850 milliemes.
+
+Geological map of Egypt, scale 1:2,000,000. English. One sheet,
+68½ × 67 cm. Price, 200 milliemes on paper, and 300 milliemes
+mounted on cloth and fitted with rollers.
+
+A number of maps have been published in the various Geological
+reports. Further information may be obtained under the respective
+headings in the list of Geological Reports, pp. V and VI.
+
+
+                            =PUBLICATIONS.=
+                               * * * * *
+
+
+The following is a general list of the publications of the Survey
+Department, and a few others which are for sale at the Headquarters
+of the Department, Giza (Mudiria), and at the Geological Museum,
+Public Works Ministry Gardens, Cairo. A booklet giving full details
+can be obtained, on application either personally or by letter.
+
+Except where specially stated, the publications are 8vo, and in
+English, and are supplied post free by the Department. They can also
+be obtained through any bookseller.
+
+
+                             =Archæology.=
+
+                    ARCHÆOLOGICAL SURVEY OF NUBIA.
+
+
+BULLETIN 1.—Dealing with the work (archæological and anatomical)
+from September 20 to November 30, 1907. English. 39 pp., 27
+illustrations. (Out of print).
+
+BULLETIN 2.—Dealing with the work (archæological and anatomical)
+from December 1, 1907, to March 31, 1908. English. 69 pp., 52
+illustrations. Price, 100 milliemes.
+
+BULLETIN 3.—Dealing with the work (archæological and
+anatomical) from October 1 to December 31, 1908. English. 52 pp.,
+5 illustrations. Price, 100 milliemes.
+
+BULLETIN 4.—Dealing with the work (archæological and
+anatomical) from January 1 to March 31, 1909. English. 28 pp.,
+2 illustrations. Price, 100 milliemes.
+
+BULLETIN 5.—Dealing with the work (archæological and
+anatomical) from October 1 to December 31, 1909. English. 35 pp.,
+5 illustrations. Price, 100 milliemes.
+
+BULLETIN 6.—Dealing with the work (Archæological and
+anatomical) from January 1 to April 15, 1910. English. 30 pp.,
+8 illustrations. Price, 100 milliemes.
+
+ANNUAL REPORT OF THE ARCHÆOLOGICAL SURVEY OF NUBIA, SEASON
+1907-8. VOL. I: by GEORGE A. REISNER. Price, with volume of plates,
+L.E. 2.
+
+ANNUAL REPORT OF THE ARCHÆOLOGICAL SURVEY OF NUBIA, SEASON
+1907-8. VOL. II: Report on the Human Remains, by Dr. G. ELLIOT SMITH,
+F.R.S., and Dr. F. WOOD JONES. Price, with volume of plates, L.E. 2.
+
+PHILÆ,—REPORT ON THE ISLAND AND TEMPLES OF, by CAPT. H. G. LYONS,
+with introductory note by W. E. GARSTIN. 1896. English. 67 pp.,
+78 illustrations. (Out of print).
+
+PHILÆ,—REPORT ON THE ISLAND AND TEMPLES OF, by
+CAPT. H. G. LYONS. 1908. English. 4to, 32 pp., 14
+illustrations. Price, 200 milliemes.
+
+
+                             =Geography.=
+
+
+RIVER NILE AND ITS BASIN—PHYSIOGRAPHY OF THE, by
+CAPT. H. G. LYONS. 1906. 411 pp., 14 maps, 34 illustrations. Price,
+400 milliemes.
+
+TURCO-EGYPTIAN BOUNDARY BETWEEN THE VILAYET OF THE HEJAZ
+AND THE PENINSULA OF SINAI—THE DELIMITATION OF THE, by
+E. B. H. WADE, together with additions by B. F. E. KEELING and
+J. I. CRAIG. 1906. (Survey Department Paper, No. 4). 89 pp., 2
+maps. Price, 150 milliemes. See also Geology.
+
+
+                              =Geology.=
+
+
+ABU ROASH, NEAR THE PYRAMIDS OF GIZA—CRETACEOUS REGION OF,
+by H. J. L. BEADNELL. 1902. 48 pp., 2 maps, 19 illust. Price,
+200 milliemes.
+
+ARSINOITHERIUM ZITTELI (Beadnell), FROM THE UPPER EOCENE STRATA
+OF EGYPT—PRELIMINARY NOTE ON, by H. J. L. BEADNELL. 1902. 4 pp.,
+6 illustrations. Price, 50 milliemes.
+
+ASWAN (FIRST) CATARACT OF THE NILE—DESCRIPTION OF, by
+DR. BALL. 1907. 121 pp., 5 maps, 28 illustrations. Price, 200
+milliemes.
+
+BAHARIA OASIS, ITS TOPOGRAPHY AND GEOLOGY, by DR. BALL and
+H. J. L. BEADNELL. 1903. 84 pp., 8 maps, 2 illust. Price, 200
+milliemes.
+
+BLACKENED ROCKS OF THE NILE CATARACTS AND OF THE EGYPTIAN DESERTS,
+by A. LUCAS. 1905. 58 pp. Price, 100 milliemes.
+
+BUILDING STONES IN EGYPT—DISINTEGRATION OF, by A. LUCAS. 1902. 17
+pp. Price, 75 milliemes.
+
+BUILDING STONES OF CAIRO NEIGHBOURHOOD AND UPPER EGYPT, by
+DR. HUME. 1909. 92 pp., 9 illustrations. Price, 150 milliemes. Survey
+Department Paper, No. 16.
+
+CAIRO AND SUEZ—TOPOGRAPHY AND GEOLOGY OF THE DISTRICT BETWEEN,
+by T. BARRON. 1907. 133 pp., 2 maps, 14 illustrations. Price,
+200 milliemes.
+
+CATALOGUE OF THE GEOLOGICAL MUSEUM, CAIRO, by DR. HUME. 1905. 37
+pp. Price, 25 milliemes.
+
+DAKHLA OASIS, ITS TOPOGRAPHY AND GEOLOGY, by
+H. J. L. BEADNELL. 1901. 107 pp., 9 maps, 7 illustrations. Price,
+200 milliemes.
+
+EASTERN DESERT OF EGYPT, CENTRAL PORTION—TOPOGRAPHY AND GEOLOGY OF,
+by T. BARRON and DR. HUME. 1902. 331 pp., 10 maps, 30 illust. Price,
+400 milliemes.
+
+EASTERN DESERT OF EGYPT, BETWEEN LATITUDES 22° AND 25°
+N.—PRELIMINARY REPORT ON GEOLOGY OF, by DR. HUME. 1907. 72 pp., 4
+maps, 5 illust. Price, 150 milliemes. Survey Department Paper, No. 1.
+
+FARAFRA OASIS, ITS TOPOGRAPHY AND GEOLOGY, by
+H. J. L. BEADNELL. 1901. 39 pp., 8 maps. Price, 150 milliemes.
+
+FAYUM PROVINCE OF EGYPT—TOPOGRAPHY AND GEOLOGY OF, by
+H. J. L. BEADNELL. 1905. 101 pp., 2 maps, 22 illustrations. Price,
+300 milliemes.
+
+FORÊTS PÉTRIFIÉES DES DÉSERTS DE L’EGYPTE—NOTE SUR L’ÂGE
+DES, par M. R. FOURTEAU. 1898. French. 8 pp. (Out of print).
+
+IRON ORES IN EGYPT—DISTRIBUTION OF, by DR. HUME. 1909. 16 pp.,
+1 map. Price, 50 milliemes. Survey Department Paper, No. 20.
+
+JEBEL GARRA AND THE OASIS OF KURKUR—TOPOGRAPHICAL AND GEOLOGICAL
+RESULTS OF A RECONNAISSANCE-SURVEY OF, by DR. BALL. 1902. 40 pp.,
+2 maps, 5 illustrations. Price 150 milliemes.
+
+KHARGA OASIS, ITS TOPOGRAPHY AND GEOLOGY, by DR. BALL. 1900. 116 pp.,
+19 maps, 16 illustrations. Price, 250 milliemes.
+
+MAMMALS—PRELIMINARY NOTE ON SOME NEW—FROM THE UPPER EOCENE OF THE
+FAYUM, EGYPT, by C. W. ANDREWS and H. J. L. BEADNELL. 1902. 9 pp.,
+4 illustrations. Price, 100 milliemes.
+
+PÉTROLE DE LA MER ROUGE—RAPPORT SUR LES RECHERCHES DU, par
+J. BAROIS. 1885. French. 16 pp., 1 map, 10 illustrations. Price,
+100 milliemes.
+
+PETROLEUM DISTRICTS SITUATED ON THE RED SEA COAST—REPORT ON,
+by COL. C. E. STEWART. 1888. 25 pp. Price, 100 milliemes.
+
+PETROLEUM INDUSTRY AT BAKU—SKETCH REPORT OF, by
+J. H. TREVITHICK. May, 1886. 22 pp. Price, 100 milliemes.
+
+PHOSPHATE DEPOSITS OF EGYPT, by SURVEY DEPARTMENT, 2nd edition
+1905. 35 pp., 3 maps. Price, 50 milliemes.
+
+SINAI PENINSULA (SOUTH-EASTERN PORTION)—TOPOGRAPHY AND GEOLOGY
+OF, by DR. HUME. 1906. 280 pp., 5 maps, 23 illustrations. Price,
+300 milliemes.
+
+SINAI PENINSULA (WESTERN PORTION)—TOPOGRAPHY AND GEOLOGY OF,
+by T. BARRON. 1907. 241 pp., 2 maps, 13 illustrations. Price,
+300 milliemes.
+
+SOIL AND WATER OF THE FAYUM PROVINCE—PRELIMINARY INVESTIGATION OF,
+by A. LUCAS. 1902. 17 pp. Price, 75 milliemes.
+
+SOIL AND WATER OF THE WADI TUMILAT LANDS UNDER RECLAMATION, by
+A. LUCAS. 1903. 26 pp., 1 map, 5 illustrations. Price, 100 milliemes.
+
+SUBSOIL WATER IN LOWER EGYPT—PRELIMINARY NOTE ON THE, by
+H. T. FERRAR, M.A., F.G.S. 1910. 16 pp., 3 illustrations. Price,
+50 milliemes.
+
+THE MOVEMENTS OF THE SUBSOIL WATER IN UPPER EGYPT, by H. T. FERRAR,
+M.A., F.G.S. Survey Department Paper, No. 19. English. 74 pp.,
+32 illustrations and 16 maps. Price, 150 milliemes.
+
+TERTIARY VERTEBRATA OF THE FAYUM, EGYPT—DESCRIPTIVE CATALOGUE OF,
+by C. W. ANDREWS. 1906. 319 pp., 124 illustrations.
+
+TORTOISE—LAND—FROM THE UPPER EOCENE OF THE FAYUM,
+EGYPT—PRELIMINARY NOTICE OF, by C. W. ANDREWS and
+H. J. L. BEADNELL. 1903. 11 pp., 3 illustrations. Price, 50 milliemes.
+
+
+                            =Meteorology.=
+
+
+DAILY WEATHER REPORT.—Issued daily by the Survey
+Department. Contains the readings taken at 29 stations in Egypt and
+the Sudan, and five stations in southern Europe, with a map showing
+the distribution of pressure. Post free, 200 milliemes quarterly,
+including short monthly summary.
+
+SUMMARY OF THE WEATHER IN EGYPT, SUDAN, AND THE SURROUNDING
+REGION. Monthly.—Contains a brief report on the weather for
+the month, with maps showing the pressure-distribution for each
+day. Price, post free, 300 milliemes per annum.
+
+ANNUAL METEOROLOGICAL REPORT.—Contains all the meteorological
+readings made during the year in Egypt and the Sudan. Also the
+readings of the various Nile gauges.
+
+  Years 1898-1899, 1900, 1901, 1902,
+  1903                                      Price, 250 mill. each.
+
+  Years 1904, 1905 (in two parts:
+  Part I containing the readings
+  taken at Helwan Observatory, Part
+  II containing the readings for the
+  rest of Egypt and the Sudan)              Price, 100 mill. each part.
+
+  Year 1906 (Part I, Helwan)                Price, 100 mill.
+
+  Year 1906 (Part II, Rest of Egypt
+  and the Sudan)                            Price, 150 mill.
+
+  Year 1907 (Parts I and II)                Price, 150 mill. each part.
+
+  Year 1908 (Parts I and II)                Price, 150 mill. each part.
+
+
+                             =Nile Flood.=
+
+
+MEASUREMENT OF THE VOLUMES DISCHARGED BY THE NILE DURING 1905
+AND 1906, by E. M. DOWSON; WITH A NOTE ON RATING FORMULÆ FOR
+CURRENT-METERS, by J. I. CRAIG. (Survey Department Paper, No. 11). 82
+pp., 6 illustrations. Price, 100 milliemes.
+
+RAINS OF THE NILE BASIN:—
+
+In 1904, by CAPT. H. G. LYONS. 25 pp., 1 map, 5 illustrations. Price,
+50 milliemes.
+
+In 1905, by CAPT. H. G. LYONS. 40 pp., 4 maps, 5 illustrations. Price,
+50 milliemes.
+
+RAINS OF THE NILE BASIN AND THE NILE FLOOD:—
+
+In 1906, by CAPT. H. G. LYONS. (Survey Department Paper, No. 2). 70
+pp., 5 maps, 11 illustrations. Price, 100 milliemes.
+
+In 1907, by CAPT. H. G. LYONS. (Survey Department Paper, No. 9). 50
+pp., 1 map, 11 illustrations. Price, 100 milliemes.
+
+In 1908, by CAPT. H. G. LYONS. (Survey Department Paper, No. 14). 69
+pp., 1 map, 8 illustrations. Price, 100 milliemes.
+
+In 1909, by J. I. CRAIG. (Survey Department Paper, No. 17). 55 pp.,
+1 map, 8 illustrations. Price, 100 milliemes.
+
+
+                   =Special Papers on Meteorology.=
+
+
+ATMOSPHERIC ELECTRICITY—DISCUSSION OF THE OBSERVATIONS
+ON—AT HELWAN OBSERVATORY, FROM MARCH 1906 TO FEBRUARY 1908, by
+H. E. HURST. (Survey Department Paper, No. 10). 65 pp., 2 maps,
+8 illustrations. Price, 100 milliemes.
+
+CLIMATE OF ABBASSIA, NEAR CAIRO, by B. F. E. KEELING. (Survey
+Department Paper, No. 3). 1907. 61 pp., 1 map, 7 illustrations. Price,
+100 milliemes.
+
+EVAPORATION IN EGYPT AND THE SUDAN, by B. F. E. KEELING. (Survey
+Department Paper, No. 15). 1909. 29 pp., 1 illustration. Price,
+100 milliemes.
+
+PLATINUM-RESISTANCE THERMOMETERS—REPORT ON THE USE OF—IN
+DETERMINING THE TEMPERATURE OF THE AIR AT THE HELWAN OBSERVATORY,
+by E. B. H. WADE. 1905. 20 pp., 5 illustrations. Price, 50 milliemes.
+
+
+                             =Surveying.=
+
+
+ALTITUDES—THE DETERMINATION OF—BY LEVELLING, by
+E. M. DOWSON. (Technical Lecture). 1908. 23 pp., 6
+illustrations. Price, 50 milliemes.
+
+CADASTRAL SURVEY OF EGYPT, 1892-1907, by CAPT. H. G. LYONS. 1908. 421
+pp., 30 maps, 16 illustrations. Price, 400 milliemes.
+
+CADASTRAL SURVEY OF EGYPT—COMPARISON OF—WITH THOSE OF
+SOME EUROPEAN COUNTRIES, by CAPT. H. G. LYONS. (Technical
+Lecture). 1909. 24 pp., 8 maps. Price, 50 milliemes.
+
+ERRORS OF OBSERVATION, by T. L. BENNETT. (Technical Lecture). 1908. 27
+pp., 3 illustrations. Price, 50 milliemes.
+
+LONGITUDE—DETERMINATION OF, by E. B. H. WADE. (Technical Lecture)
+1908. 39 pp., 2 maps, 1 illustration. Price, 50 milliemes.
+
+LONGITUDES—A FIELD METHOD OF DETERMINING—BY OBSERVATIONS OF THE
+MOON, by E. B. H. WADE. (Survey Department Paper, No. 5). 1907. 47
+pp., 9 illustrations. Price, 100 milliemes.
+
+MAP-PROJECTIONS, by J. I. CRAIG. (Technical Lecture). 1909. 25 pp.,
+1 map, 25 illustrations. Price, 50 milliemes.
+
+MAP-PROJECTIONS—THE THEORY OF—WITH SPECIAL REFERENCE TO THE
+PROJECTIONS USED IN THE SURVEY DEPARTMENT, by J. I. CRAIG. F.R.S.E.,
+(Survey Department Paper, No. 13). 1910. 77 pp., illustrated. Price,
+200 milliemes.
+
+RELIEF ON MAPS—THE REPRESENTATION OF, by
+CAPT. H. G. LYONS. (Technical Lecture). 1909. 19 pp., 5 maps. Price,
+50 milliemes.
+
+
+                       =Terrestrial Magnetism.=
+
+
+MAGNETIC OBSERVATIONS IN EGYPT, 1895-1905, WITH A SUMMARY OF PREVIOUS
+MAGNETIC WORK IN NORTHERN AFRICA, by B. F. E. KEELING. (Survey
+Department Paper, No. 6). 1907. 65 pp., 4 maps. Price, 100 milliemes.
+
+MAGNETIC OBSERVATIONS MADE FROM APRIL TO DECEMBER, 1907, AT HELWAN
+OBSERVATORY. 8 pp. Price, 25 milliemes.
+
+MAGNETIC OBSERVATIONS MADE DURING 1908 AT HELWAN OBSERVATORY. 11
+pp. Price, 25 milliemes.
+
+THE SAME FOR 1909. 11 pp. Price, 50 milliemes.
+
+STANDARDIZATION OF THE MAGNETIC INSTRUMENTS AT HELWAN OBSERVATORY
+DURING 1907, by H. E. HURST. (Survey Department Paper,
+No. 8). 1908. 45 pp., 4 illustrations. Price, 100 milliemes.
+
+
+                           =Miscellaneous.=
+
+
+ANNUAL REPORTS ON THE WORK OF THE SURVEY DEPARTMENT, by the
+Director-General, as follows: 1905, 120 milliemes; 1906, 1907,
+1908 and 1909, 100 milliemes each.
+
+CHEMISTRY OF THE RIVER NILE, by A. LUCAS, 1908. (Survey Department
+Paper, No. 7). 78 pp., 1 map, 1 illustration. Price, 150 milliemes.
+
+COLLECTION OF STATISTICS OF THE AREAS PLANTED IN COTTON IN 1909,
+by E. M. DOWSON and J. I. CRAIG. 1909. English or Arabic. 77 pp.,
+8 illustrations. Price, 150 milliemes each.
+
+COLLECTION OF STATISTICS OF THE AREAS PLANTED IN COTTON IN
+1910. 1910. English or Arabic. Price, 50 milliemes each.
+
+PRESERVATIVE MATERIALS USED BY THE ANCIENT EGYPTIANS IN EMBALMING,
+by A. LUCAS, F.I.C. (Survey Department Paper, No. 12). 1911. 59
+pp. Price, 100 milliemes.
+
+                               * * * * *
+
+
+[Footnote: £ 1 = 975 milliemes; $ 1 = 200 milliemes; Mk. 1 = 48
+milliemes; Fr. 1 = 38 milliemes.]
+
+
+                               * * * * *
+                      Imp. Nat. 4323-1910-250 br.
+                               * * * * *
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 73557 ***
